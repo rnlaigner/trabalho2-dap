@@ -1,7 +1,7 @@
 package servlet;
 
 
-import Exceptions.IllegalPhotoIndexException;
+import exceptions.IllegalPhotoIndexException;
 import beans.PhotoAlbum;
 import beans.PhotoResultAlbum;
 import java.io.IOException;

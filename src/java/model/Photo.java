@@ -5,27 +5,16 @@ package model;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Table;
 /**
  *
  * @author Rodrigo
  */
-@Table(name="photo")
 public class Photo 
 {
-    @Id @GeneratedValue
-    private Long id;
-    @Column(nullable=false)
+    private int id;
     private byte[] data;
-    @Column(length=200)
     private String subtitle;
-    @Column(length=200)
     private String author;
-    @Column(length=200)
     private String local;
 
     public Photo(byte[] data, String subtitle, String author, String local) {
@@ -33,6 +22,11 @@ public class Photo
         this.subtitle = subtitle;
         this.author = author;
         this.local = local;
+    }
+    
+    public Photo()
+    {
+        
     }
 
     public String getLocal() {

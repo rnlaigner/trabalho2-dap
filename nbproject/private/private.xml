@@ -3,21 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/ExhibitPhotoServlet.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/exhibit.jsp</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/beans/PhotoAlbum.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/album.jsp</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/WEB-INF/mytaglib.tld</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/photo.jsp</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/SearchPhotoServlet.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/EditPhotoServlet.java</file>
+            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/test/Persistence/TestPersistence.java</file>
             <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/UploadServlet.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/tags/PhotoTag.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/RemovePhotoServlet.java</file>
             <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/model/Photo.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/edit.jsp</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/web/results.jsp</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/beans/PhotoResultAlbum.java</file>
+            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/java/servlet/SavePhotoServlet.java</file>
+            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/PhotoAlbum-JSP/src/conf/persistence.xml</file>
         </group>
     </open-files>
 </project-private>
